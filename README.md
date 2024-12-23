@@ -9,5 +9,3 @@ The fonts in this repository are licensed under the SIL Open Font License (OFL) 
 ## About
 
 These fonts were originally obtained from [Google Fonts](https://fonts.google.com/) and converted for compatibility with MapLibre applications.
-
-If you have any questions regarding the use of these fonts, feel free to reach out.
